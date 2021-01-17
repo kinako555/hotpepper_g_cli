@@ -1,12 +1,13 @@
 # hotpepper_gourmet_cli
-適当に作った勉強用サイト    
-vue vue_router vuex Railsのdevise_token_authを使用したtoken認証でのログイン画面 
+ホットペッパーグルメAPIで取得した情報を管理するサイト
 
 
 ## 現機能
 ユーザー作成    
 ログイン    
 ログアウト
+店検索
+店登録
 
 ## Project setup
 ```
@@ -28,5 +29,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
